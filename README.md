@@ -21,15 +21,30 @@ Currently strengthening my foundations in C, Linux, networking, and security too
 
 ### `$ cat tech_stack.txt`
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/C-E63946?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-E63946?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-E63946?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**Systems & Tools**
+
+<p>
   <img src="https://img.shields.io/badge/Linux-E63946?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-E63946?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Neovim-E63946?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Flask-E63946?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E63946?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**Networking & Security**
+
+<p>
   <img src="https://img.shields.io/badge/Networking-E63946?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Nmap-E63946?style=flat-square&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-E63946?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Neovim-E63946?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/PostgreSQL-E63946?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### `$ ls ./projects`
