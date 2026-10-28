@@ -61,6 +61,10 @@ A project exploring SQL injection risks and retrieval-augmented generation with 
 
 A collection of C programming exercises and practice projects.
 
+**[practice_of_rust](https://github.com/Ddoggen6/practice_of_rust)**
+
+A bunch of things that i build wile i learn Rust. And a lot of practice exercises. 
+
 ### `$ git status`
 
 ```text
