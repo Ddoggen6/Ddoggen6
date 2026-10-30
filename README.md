@@ -15,9 +15,9 @@
 ## `// whoami`
 
 ```text
-User: Ddoggen6
-Focus: Network Security
-Environment: Linux
+User: Ddoggen6.
+Focus: Network Security.
+Environment: Linux.
 Approach: Learn by building, testing, and debugging.
 ```
 
