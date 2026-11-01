@@ -46,6 +46,9 @@ I prefer practical experimentation, debugging, and building projects over simply
   <img src="https://img.shields.io/badge/Neovim-8B0000?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Flask-C62838?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cargo-8B0000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo" />
+ <img src="https://img.shields.io/badge/Mongoose-C62838?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  
 </p>
 
 ### Networking and security
