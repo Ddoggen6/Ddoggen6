@@ -36,7 +36,6 @@ I prefer practical experimentation, debugging, and building projects over simply
   <img src="https://img.shields.io/badge/Python-F04452?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-C62838?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Rust-8B0000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/GCC-8B0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
 </p>
 
 ### Systems and development
@@ -49,6 +48,7 @@ I prefer practical experimentation, debugging, and building projects over simply
   <img src="https://img.shields.io/badge/PostgreSQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Cargo-8B0000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo" />
  <img src="https://img.shields.io/badge/Mongoose-C62838?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+ <img src="https://img.shields.io/badge/GCC-8B0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
   
 </p>
 
