@@ -52,6 +52,13 @@ I prefer practical experimentation, debugging, and building projects over simply
   
 </p>
 
+### Knowledge Management
+
+<p>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" alt="Notion" />
+</p>
+
 ### Networking and security
 
 <p>
