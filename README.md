@@ -124,8 +124,11 @@ Learn from the results.
 ### `// GitHub statistics`
 
 <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ddoggen6&layout=compact&hide_border=true&bg_color=0D1117&title_color=F04452&text_color=C9D1D9" alt="Most used languages" />
+<img
+  height="165"
+  src="./profile/top-langs.svg"
+  alt="Most used languages"
+/>
 
 <img src="https://streak-stats.demolab.com?user=Ddoggen6&hide_border=true&background=0D1117&ring=E63946&fire=F04452&currStreakLabel=F04452&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
