@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F04452&center=true&vCenter=true&width=600&lines=Network+Security+Student;C+%7C+Rust+%7C+Linux+%7C+Networking;Learning+by+building+systems)](https://git.io/typing-svg)
@@ -47,9 +48,8 @@ I prefer practical experimentation, debugging, and building projects over simply
   <img src="https://img.shields.io/badge/Flask-C62838?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Cargo-8B0000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo" />
- <img src="https://img.shields.io/badge/Mongoose-C62838?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
- <img src="https://img.shields.io/badge/GCC-8B0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
-  
+  <img src="https://img.shields.io/badge/Mongoose-C62838?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/GCC-8B0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" />
 </p>
 
 ### Knowledge Management
@@ -123,10 +123,11 @@ Learn from the results.
 
 ### `// GitHub statistics`
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Ddoggen6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F04452&icon_color=C62838&text_color=C9D1D9&ring_color=E63946" alt="GitHub statistics" />
+<img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
 
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ddoggen6&layout=compact&hide_border=true&bg_color=0D1117&title_color=F04452&text_color=C9D1D9" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Ddoggen6&hide_border=true&background=0D1117&ring=E63946&fire=F04452&currStreakLabel=F04452&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 </div>
+
